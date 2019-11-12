@@ -13,7 +13,7 @@ Alert messages in English or French, easily add your own langage !
 
 Debug mode is available to visualise the constrains associated to a form.
 
-![diapo 2](https://github.com/v2belleville/fac/blob/master/img/Diapositive2.JPG)
+![diapo 2](https://github.com/v2belleville/fac/blob/master/img/Diapositive2.jpg)
 ![diapo 1](https://github.com/v2belleville/fac/blob/master/img/Diapositive1.JPG)
 ![diapo 3](https://github.com/v2belleville/fac/blob/master/img/Diapositive3.JPG)
 ![diapo 4](https://github.com/v2belleville/fac/blob/master/img/Diapositive4.JPG)
