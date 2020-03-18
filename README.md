@@ -6,7 +6,7 @@ formAutoAndControls.js is a jquery library
 * function _formAutomatisms()_ allows to automatically display or hide information according to what is typed in a form.
 * function _formControls(formId)_ checks required elements (with or without conditions) and modifies the variable window.isValid, according to the validity of the form (with id="formId") 
 
-![default](https://github.com/v2belleville/fac/blob/master/img/default.gif) ![nested](https://github.com/v2belleville/fac/blob/master/img/nested.1.gif)
+![default](https://github.com/v2belleville/fac/blob/master/img/default.gif) ![nested](https://github.com/v2belleville/fac/blob/master/img/nested.gif)
 
 ## <a href="http://v2belleville.eu/demos/formTestFAC.php" target="_blank">demo</a>
 
