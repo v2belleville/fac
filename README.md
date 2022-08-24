@@ -7,7 +7,6 @@ formAutoAndControls.js is a jquery library
 * function _formControls(formId)_ checks required elements (with or without conditions) and modifies the variable window.isValid, according to the validity of the form (with id="formId") 
 
 ![default](https://github.com/v2belleville/fac/blob/master/img/default.gif) 
-
 ----------------
 
 ![nested](https://github.com/v2belleville/fac/blob/master/img/nested.gif)
